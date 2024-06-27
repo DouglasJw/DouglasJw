@@ -17,6 +17,6 @@
 <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
-### Estudante - Técnico em Informática - Senac Nova Iguaçu
+### Estudante - Cursando Web Front-end na Udemy com o professor "Daniel Tapias Morales"
 
-<br/>Sou apaixonado por tecnologia, futuramente me tornarei um Dev Front-end🙏
+<br/>Sou apaixonado por tecnologia, futuramente me tornarei um Dev Front-end ou  Data Science🙏
